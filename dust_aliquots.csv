@@ -1,0 +1,121 @@
+﻿subject_population,VisitType,material_sub_type,Child_Material
+BEAMS,PN HV,Blood,Bref C1 Cell
+BEAMS,PN HV,Blood,Bref C1 Sup
+BEAMS,PN HV,Blood,Bref CP Cell
+BEAMS,PN HV,Blood,Bref CP Sup
+BEAMS,PN HV,Blood,C1
+BEAMS,PN HV,Blood,C1cell
+BEAMS,PN HV,Blood,CP
+BEAMS,PN HV,Blood,CPcell
+BEAMS,PN HV,Blood,FF
+BEAMS,PN HV,Blood,Plas
+BEAMS,PN HV,Blood,Bld NP EDTA
+BEAMS,PN HV,Blood,Plas EDTA
+BEAMS,PN HV,Blood,Ser
+BEAMS,PN HV,Blood,TFF Cell Slide
+BEAMS,PN HV,Blood,TFF Cell Trz
+BEAMS,PN HV,Blood,TFX Cell
+BEAMS,PN HV,Dust,Dust Ext 0.3 Api
+BEAMS,PN HV,Dust,Dust Ext 0.3 Bas
+BEAMS,PN HV,Dust,Dust Ext 0.3 Cell
+BEAMS,PN HV,Dust,Dust Ext 1.0 Api
+BEAMS,PN HV,Dust,Dust Ext 1.0 Bas
+BEAMS,PN HV,Dust,Dust Ext 1.0 Cell
+BEAMS,PN HV,Dust,Dust Ext 3.0 Api
+BEAMS,PN HV,Dust,Dust Ext 3.0 Bas
+BEAMS,PN HV,Dust,Dust Ext 3.0 Cell
+BEAMS,PN HV,Dust,Dust Ext 0.3
+BEAMS,PN HV,Dust,Dust Ext 0.3 Api
+BEAMS,PN HV,Dust,Dust Ext 0.3 Bas
+BEAMS,PN HV,Dust,Dust Ext 0.3 Cell
+BEAMS,PN HV,Dust,Dust Ext 1.0
+BEAMS,PN HV,Dust,Dust Ext 1.0 Api
+BEAMS,PN HV,Dust,Dust Ext 1.0 Bas
+BEAMS,PN HV,Dust,Dust Ext 1.0 Cell
+BEAMS,PN HV,Dust,Dust Ext 3.0
+BEAMS,PN HV,Dust,Dust Ext 3.0 Api
+BEAMS,PN HV,Dust,Dust Ext 3.0 Bas
+BEAMS,PN HV,Dust,Dust Ext 3.0 Cell
+BEAMS,PN HV,Dust,Raw Dust L
+BEAMS,PN HV,Dust,Sieved Dust
+BEAMS,PN HV,Dust,Residue Dust Quad
+BEAMS,PN HV,Dust,Sieved Dust Quad
+BEAMS,PN HV,Dust,Raw Dust Rm
+BEAMS,PN HV,Dust,Residue Dust Room
+BEAMS,PN HV,Dust,Sieved Dust
+BEAMS,PN HV,Dust,Raw Dust V
+BEAMS,PN HV,Dust,EDC PBS Ext
+BEAMS,PN HV,Dust,EDC PBS Ext SL
+BEAMS,PN HV,Dust,EDC PBS Ext Zymo
+BEAMS,PN HV,Dust,EDC Pellet/Treated
+BEAMS,PN HV,Dust,EDC Ext 0.3 Api
+BEAMS,PN HV,Dust,EDC Ext 0.3 Bas
+BEAMS,PN HV,Dust,EDC Ext 0.3 Cell
+BEAMS,PN HV,Dust,EDC Ext 1.0 Api
+BEAMS,PN HV,Dust,EDC Ext 1.0 Bas
+BEAMS,PN HV,Dust,EDC Ext 1.0 Cell
+BEAMS,PN HV,Dust,EDC Ext 3.0 Api
+BEAMS,PN HV,Dust,EDC Ext 3.0 Bas
+BEAMS,PN HV,Dust,EDC Ext 3.0 Cell
+BEAMS,PN HV,Dust,EDC Ext 0.3
+BEAMS,PN HV,Dust,EDC Ext 1.0
+BEAMS,PN HV,Dust,EDC Ext 3.0
+BEAMS,PN HV,Dust,QRm Ext 0.3 Api
+BEAMS,PN HV,Dust,QRm Ext 0.3 Bas
+BEAMS,PN HV,Dust,QRm Ext 0.3 Cell
+BEAMS,PN HV,Dust,QRm Ext 1.0 Api
+BEAMS,PN HV,Dust,QRm Ext 1.0 Bas
+BEAMS,PN HV,Dust,QRm Ext 1.0 Cell
+BEAMS,PN HV,Dust,QRm Ext 3.0 Api
+BEAMS,PN HV,Dust,QRm Ext 3.0 Bas
+BEAMS,PN HV,Dust,QRm Ext 3.0 Cell
+BEAMS,PN HV,Dust,QRm Load Api
+BEAMS,PN HV,Dust,QRm Load Bas
+BEAMS,PN HV,Dust,QRm Load Cell
+BEAMS,PN HV,Dust,QRm Ext 0.3
+BEAMS,PN HV,Dust,QRm Ext 1.0
+BEAMS,PN HV,Dust,QRm Ext 3.0
+BEAMS,PN HV,Dust,QRm Ext Load
+BEAMS,PN HV,Dust,Dust PBS Ext
+BEAMS,PN HV,Dust,Dust PBS Ext SL
+BEAMS,PN HV,Dust,Dust PBS Ext Zymo
+BEAMS,PN HV,Dust,Raw Dust Pellet
+BEAMS,PN HV,Dust,Residue Dust Conc Ex
+BEAMS,PN HV,Dust,Residue Dust Ext
+BEAMS,PN HV,Dust,Residue Dust Pellet
+BEAMS,PN HV,Dust,QRm PBS Ext
+BEAMS,PN HV,Dust,QRm PBS Ext SL
+BEAMS,PN HV,Dust,QRm PBS Ext Zymo
+BEAMS,PN HV,Dust,QRm Pellet
+BEAMS,PN HV,Dust,Sieved Dust Quad Pel
+BEAMS,PN HV,Stool,Stl 0.45 Ext
+BEAMS,PN HV,Stool,Stl 0.45 Ext SL
+BEAMS,PN HV,Stool,Unprs Stl Pellet
+BEAMS,PN HV,Stool Ex,Stl 0.2 Ext 1.5
+BEAMS,PN HV,Stool Ex,Stl 0.2 Ext 15
+BEAMS,PN HV,Stool Ex,Stl 0.2 Ext 5
+BEAMS,PN HV,Stool Ex,Stl 0.2 Ext 1.5 A+B
+BEAMS,PN HV,Stool Ex,Stl 0.2 Ext 1.5 Bas
+BEAMS,PN HV,Stool Ex,Stl 0.2 Ext 1.5 Cell
+BEAMS,PN HV,Stool Ex,Stl 0.2 Ext 15 A+B
+BEAMS,PN HV,Stool Ex,Stl 0.2 Ext 15 Bas
+BEAMS,PN HV,Stool Ex,Stl 0.2 Ext 15 Cell
+BEAMS,PN HV,Stool Ex,Stl 0.2 Ext 5 A+B
+BEAMS,PN HV,Stool Ex,Stl 0.2 Ext 5 Bas
+BEAMS,PN HV,Stool Ex,Stl 0.2 Ext 5 Cell
+BEAMS,PN HV,Stool Ex,Stl 0.2 Ext
+BEAMS,PN HV,Stool Ex,Stl 0.45 Ext 1.5
+BEAMS,PN HV,Stool Ex,Stl 0.45 Ext 15
+BEAMS,PN HV,Stool Ex,Stl 0.45 Ext 5
+BEAMS,PN HV,Stool Ex,Stl 0.45 Ext 1.5 Bas
+BEAMS,PN HV,Stool Ex,Stl 0.45 Ext 1.5 Cel
+BEAMS,PN HV,Stool Ex,Stl 0.45 Ext 15 Bas
+BEAMS,PN HV,Stool Ex,Stl 0.45 Ext 15 Cell
+BEAMS,PN HV,Stool Ex,Stl 0.45 Ext 5 Bas
+BEAMS,PN HV,Stool Ex,Stl 0.45 Ext 5 Cell
+BEAMS,PN HV,Urine,Urine
+BEAMS,PN HV,Water,H20 Preserved
+BEAMS,PN HV,Water,H20CPFS
+BEAMS,PN HV,Water,H2O70P/30G
+BEAMS,PN HV,Water,Water Filter L
+BEAMS,PN HV,Water,Water Filter V
